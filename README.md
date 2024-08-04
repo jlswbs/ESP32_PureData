@@ -1,0 +1,3 @@
+- https://github.com/Ai-Thinker-Open/ESP32-A1S-AudioKit
+- https://github.com/pschatzmann/arduino-audio-tools
+- https://wasted-audio.github.io/hvcc/
